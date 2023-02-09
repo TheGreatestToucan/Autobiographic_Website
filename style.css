@@ -1,0 +1,74 @@
+html {
+    background-color: black;
+    font-family: 'New Times Roman';
+}
+
+body {
+    color: white;
+}
+
+button {
+    font-family: 'Times New Roman';
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+/*--- put classes below this line ---*/
+.para{
+    font-size: 22px;
+    margin: auto;
+    width: 30%;
+}
+
+img.link {
+    width: 30%;
+    height: max-content;
+    float: left;
+    padding: 5px;
+}
+
+div.link {
+    text-align: center;
+}
+
+span.link {
+    float: right;
+    padding: 5px;
+    font-size: 40px;
+}
+
+p.linksub {
+    font-size: 16px;
+}
+
+button.link {
+    margin: 0px;
+    width: 40%;
+}
+
+span.language {
+    float: right;
+}
+
+.portait {
+    text-align: center;
+}
+
+img.portait {
+    border-style: solid;
+    border-width: 15px;
+    border-color: white;
+    width: 20%;
+    height: 40%;
+}
